@@ -24,12 +24,12 @@ h2 {
     text-shadow: rgba(0, 96, 175, 0.87) 1px 0 10px;
 }
 
-h3, h1{
+h3, h1 {
     margin-left: 40%;
     text-shadow: rgba(0, 96, 175, 0.87) 1px 0 10px;
 }
 
-ul,ol {
+ul, ol {
     list-style-position: inside
 }
 
