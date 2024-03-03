@@ -1,7 +1,7 @@
 body {
   background-color: #2a3236;
   color: azure;
-  margin: 50px 100px;
+  margin: 50px 100px; /* используются для создания пространства вокруг элементов ЗА пределами определенных границ. */
   font-family: Arial, Helvetica, sans-serif;
   letter-spacing: 1px;
 }
@@ -42,7 +42,7 @@ ol {
 
 .target-title {
   text-align: left;
-  margin: 5px;
+  padding: 5px; /* используется для создания пространства вокруг содержимого элемента ВНУТРИ любых определенных границ */
   line-height: 1.5;
 }
 
