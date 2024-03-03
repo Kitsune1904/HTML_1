@@ -73,7 +73,7 @@ ol {
   cursor: pointer; /* для вказання активності курсора "наведення" */
 }
 
-.cooking:hover {
+.cooking{
   box-shadow: 10px 10px 10px rgba(41, 201, 255, 0.479);
   cursor: pointer;
 }
